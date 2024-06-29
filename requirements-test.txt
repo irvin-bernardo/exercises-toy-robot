@@ -1,0 +1,32 @@
+black==24.4.2
+# license: MIT
+# https://github.com/ambv/black/blob/master/LICENSE
+# note: auto formatter
+
+mypy==1.10.0
+#  usage: type checker for tests/linting
+#  repo: https://github.com/python/mypy
+#  license: MIT - <repo>/blob/master/LICENSE
+#  docs: https://mypy.readthedocs.io/en/latest/
+
+pylint==3.2.5
+#  license: GPL
+#  https://github.com/PyCQA/pylint/blob/master/COPYING
+#  note: not imported, run as a tool against codebase
+
+pytest-cov==5.0.0
+#  license: MIT
+#  https://github.com/pytest-dev/pytest-cov/blob/master/LICENSE
+
+pytest-flake8==1.1.1
+#  license: BSD
+#  https://github.com/tholo/pytest-flake8/blob/master/LICENSE
+#  note: not imported, run as a tool against codebase
+
+pytest-mock==3.14.0
+#  license: MIT
+#  https://github.com/pytest-dev/pytest-mock/blob/master/LICENSE
+
+pytest==7.4.4
+#  license: MIT
+#  https://github.com/pytest-dev/pytest/blob/master/LICENSE
